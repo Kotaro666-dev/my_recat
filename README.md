@@ -1,4 +1,8 @@
-# git clone
+# What is recat?
+
+Reverse version of cat command
+
+# How to install
 
 ```
 git clone https://github.com/Kotaro666-dev/my_recat.git
